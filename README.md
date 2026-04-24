@@ -34,8 +34,8 @@ The main goal is to understand why customers are leaving and find useful pattern
 ## Files Included
 
 * Customer_Churn_Dashboard.pbix
-* customer_churn.csv
-* dashboard.png
+* WA_Fn-UseC_-Telco-Customer-Churn.csv.csv
+* Dashboard..png
 
 ##  Key Features
 
