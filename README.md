@@ -8,7 +8,7 @@ The main goal is to understand why customers are leaving and find useful pattern
 
 ##  Dashboard Preview
 
-![Customer Churn Dashboard](Dashboard..png)
+(Dashboard..png)
 
 
 ##  What I Did
